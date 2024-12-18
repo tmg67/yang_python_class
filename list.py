@@ -67,7 +67,7 @@ git sdd . # staging area, . is all filies
 
 git config --global user.email "rumancha12gmail.com"
 git config --global user.name "ruman"
-git comment -m "any message...." # commit area
+git commit -m "any message...." # commit area
 
 git remote add origin https://github.com/tmg67/yang_python_class.git
 
