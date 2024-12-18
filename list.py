@@ -56,4 +56,21 @@ for item in fruits:
 
 fruits.add("apple")
 print(fruits)
+# dictionaries keys and values, requires key to change 
+###commands
+
+git init . # git initalize, start folder to track, . is current folder
+
+git status # check git status
+
+git sdd . # staging area, . is all filies
+
+git config --global user.email "rumancha12gmail.com"
+git config --global user.name "ruman"
+git comment -m "any message...." # commit area
+
+git remote add origin https://github.com/tmg67/yang_python_class.git
+
+git push origin master # code push to git
+
 
