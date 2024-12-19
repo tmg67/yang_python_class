@@ -72,5 +72,3 @@ git commit -m "any message...." # commit area
 git remote add origin https://github.com/tmg67/yang_python_class.git
 
 git push origin master # code push to git
-
-
