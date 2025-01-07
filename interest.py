@@ -11,8 +11,9 @@ t for time
 r for rate
 n for number of time interested""")
 
-simple interest = "si":
+simple_interest = "si":
    print("si = " (first_number * second_number * third_number/100))
 compound interest = "ci":
    print("ci = " first_number * (1 + (third_number/fourth_number))^fourth_number * second_number)
    print("invalid option")
+
