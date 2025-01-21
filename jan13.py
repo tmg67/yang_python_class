@@ -40,5 +40,3 @@ file_path = "parser_data.csv"
 parse_csv_for_totals(file_path)
 
 
-*
-\7

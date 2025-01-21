@@ -6,6 +6,7 @@ url = "https://jsonplaceholder.typicode.com/posts"
 # send a GET request to the API 
 response = requests.get(url)
 
+
 #check if the request was successful (status code 200)
 if response.status_code == 200:
     print("Data fetched successfully!\n")

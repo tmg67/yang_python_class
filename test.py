@@ -2,7 +2,7 @@ from collections import Counter
 
 #sample text
 text = """
-Python is an amazing progrfamming language. Python is fun to learn and powerful to use.
+Python is an amazing programming language. Python is fun to learn and powerful to use.
 """
 
 #split text into words and count frequency
