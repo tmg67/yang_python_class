@@ -1,0 +1,8 @@
+currenet working directory: C:\Users\ACER\OneDrive\Desktop\assignment
+disk usage:
+ total: 300.27  GB
+ total: 81.24  GB
+ total: 219.04  GB
+system information:
+MINGW64_NT-10.0-26100 LAPTOP-GKN4TDNN 3.5.4-395fda67.x86_64 2024-11-25 09:49 UTC x86_64 Msys
+
