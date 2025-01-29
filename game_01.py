@@ -41,5 +41,5 @@ while True:
     if choice.strip() == "no":
         print('thank you for playing')
         break
-print(f"final score :  {player1_score} and {player2_score}")
+print(f"final score : {player1_score} and {player2_score}")
     
